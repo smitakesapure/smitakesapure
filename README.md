@@ -11,16 +11,16 @@ Aspiring Data Analyst | Passionate About Turning Data into Insights | Python & S
 
 ## Skills
 - **Programming Languages:** Python, SQL,R Basic
-- **Tools:** PowerBI, MySQL,Tableau,MS Excel
+- **Tools:** Microsoft PowerBI, MySQL,Tableau,Advance Excel
 - **Certifications:** 
   - NPTEL Business Analytics for Management Decision (78%)
   - Data Analyst Certification from ExcelR (Distinction)
 
 ## Projects
 **•	Walmart Sales Data Analysis using Mysql:**
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of different products, customer behaviour. The aim is to study how sales strategies can be improved and optimized.   
+This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of different products, customer behaviour. The aim is to study how sales strategies can be improved and optimized.      
 **•	Social Media KPI dashboard for Twitter:**
-Tableau social media dashboard with some creative visualizations and KPIs that is helpful in looking into in-depth of data and enable data driven insights for decision making.  
+Tableau social media dashboard with some creative visualizations and KPIs that is helpful in looking into in-depth of data and enable data driven insights for decision making.       
 **•	Mobile data analysis dashboard using Power BI:**
 Designed and developed an insightful Power BI dashboard for analyzing 2023 mobile data trends, featuring interactive visualizations and data-driven insights.  
 
