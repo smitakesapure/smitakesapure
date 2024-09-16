@@ -24,14 +24,12 @@ Tableau social media dashboard with some creative visualizations and KPIs that i
 **•	Mobile data analysis dashboard using Power BI:**
 Designed and developed an insightful Power BI dashboard for analyzing 2023 mobile data trends, featuring interactive visualizations and data-driven insights.  
 
-
 ## Currently Working On
 
 - 👯 I’m looking to collaborate on data analytics projects and open-source contributions.
 - 💬 Ask me about data visualization, data cleaning, and analysis techniques.
 - 📫 How to reach me: - [LinkedIn](www.linkedin.com/in/smita-kesapure-94506922b)or[Email](mailto:smitakesapure33@gmail.com)
 - 😄 Pronouns: She/Her
-
 
 ## Contact
 - [LinkedIn](www.linkedin.com/in/smita-kesapure-94506922b)
