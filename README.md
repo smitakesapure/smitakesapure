@@ -28,9 +28,9 @@ Designed and developed an insightful Power BI dashboard for analyzing 2023 mobil
 
 - 👯 I’m looking to collaborate on data analytics projects and open-source contributions.
 - 💬 Ask me about data visualization, data cleaning, and analysis techniques.
-- 📫 How to reach me: - [LinkedIn] (www.linkedin.com/in/smita-kesapure-94506922b)or[Email] (mailto:smitakesapure33@gmail.com)
+- 📫 How to reach me: - [LinkedIn] (www.linkedin.com/in/smita-kesapure-94506922b)or[Email](mailto:smitakesapure33@gmail.com)
 - 😄 Pronouns: She/Her
 
 ## Contact
 - [LinkedIn] (www.linkedin.com/in/smita-kesapure-94506922b)
-- [Email] (mailto:smitakesapure33@gmail.com)
+- [Email](mailto:smitakesapure33@gmail.com)
