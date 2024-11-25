@@ -23,6 +23,10 @@ This project aims to explore the Walmart Sales data to understand top performing
 Tableau social media dashboard with some creative visualizations and KPIs that is helpful in looking into in-depth of data and enable data driven insights for decision making.       
 **•	Mobile data analysis dashboard using Power BI:**    
 Designed and developed an insightful Power BI dashboard for analyzing 2023 mobile data trends, featuring interactive visualizations and data-driven insights.  
+**HR Analytics:**   
+Employee Retention Insights.                                                            
+**Healthcare Analysis:**  
+Socio-economic and Demographic Impacts.
 
 ## Currently Working On
 
