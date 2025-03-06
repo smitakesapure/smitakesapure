@@ -4,37 +4,30 @@
 smitakesapure/smitakesapure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hello, I'm Smita Sunil Kesapure
 
-## About Me
-Aspiring Data Analyst | Passionate About Turning Data into Insights | Python & SQL Enthusiast
+## 👋 Hi, I'm Smita Kesapure! 
 
-## Skills
-- **Programming Languages:** Python, SQL,R Basic
-- **Tools:** Microsoft PowerBI, MySQL,Tableau,Advance Excel
-- **Certifications:**   
-  - NPTEL Business Analytics for Management Decision (78%)
-  - Data Analyst Certification from ExcelR (Distinction)
+🚀 Aspiring Data Analyst | SQL, Excel, Power BI, Tableau, Python  
+📊 Passionate about turning raw data into meaningful insights  
 
-## Projects
-**•	Walmart Sales Data Analysis using Mysql:**    
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of different products, customer behaviour. The aim is to study how sales strategies can be improved and optimized.      
-**•	Social Media KPI dashboard for Twitter:**    
-Tableau social media dashboard with some creative visualizations and KPIs that is helpful in looking into in-depth of data and enable data driven insights for decision making.       
-**•	Mobile data analysis dashboard using Power BI:**    
-Designed and developed an insightful Power BI dashboard for analyzing 2023 mobile data trends, featuring interactive visualizations and data-driven insights.  
-**HR Analytics:**   
-Employee Retention Insights.                                                            
-**Healthcare Analysis:**  
-Socio-economic and Demographic Impacts.
+### 🔹 About Me
+- 🎓 Bachelor's in AI & Data Science  
+- 💼 Intern at **Analytics Career Connect** (Data Analytics)  
+- 📈 Worked on **HR Analytics, Healthcare Analytics**  
+- 📌 Certified in Data Analytics (ExcelR, Cisco, KPMG-AU, NPTEL)  
 
-## Currently Working On
+### 🔹 Skills
+- **Data Analysis**: SQL, Excel, Power BI, Tableau, Python (Pandas, Matplotlib, Seaborn)  
+- **Database Management**: MySQL, Snowflake  
+- **Visualization & Reporting**: Power BI, Tableau, Excel  
 
-- 👯 I’m looking to collaborate on data analytics projects and open-source contributions.
-- 💬 Ask me about data visualization, data cleaning, and analysis techniques.
-- 📫 How to reach me: - [LinkedIn](www.linkedin.com/in/smita-kesapure-94506922b) or [Email](mailto:smitakesapure33@gmail.com)
-- 😄 Pronouns: She/Her
+### 🔹 Projects  
+📌 **HR Analytics** – Identified factors influencing employee attrition using Power BI & Excel  
+📌 **Healthcare Analysis** – Developed interactive dashboards to track healthcare metrics using Tableau 
 
-## Contact
-- [LinkedIn] (www.linkedin.com/in/smita-kesapure-94506922b)
-- [Email](mailto:smitakesapure33@gmail.com)
+### 📫 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/smita-kesapure-94506922b)  
+🐙 [GitHub](https://github.com/smitakesapure)  
+📧 smitakesapure33@gmail.com  
+ 
+
