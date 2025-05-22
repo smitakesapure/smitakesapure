@@ -4,8 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hi, I'm Smita Kesapure! 
 
-🚀 Aspiring Data Analyst | SQL, Excel, Power BI, Tableau, Python  
+🎓 Certified Data Analyst | 📊 Power BI | 🧮 Excel | 🗃️ SQL | 📈 Tableau | 🧠 Insights-Driven
 📊 Passionate about turning raw data into meaningful insights  
+
 
 ### 🔹 About Me
 - 🎓 Bachelor's in AI & Data Science  
